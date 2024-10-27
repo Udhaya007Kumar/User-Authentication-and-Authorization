@@ -1,4 +1,4 @@
-# -----------------------User Authentication and Authorization with Bearer Token -----------------------------------------------
+# -----------------------User Authentication and Authorization with Bearer Token     ---------------------------------------------------------
 
 
 # Created  the MVC pattern with separate folders for models, views, and controllers.
@@ -8,3 +8,4 @@
 # Implement a controller function to handle user registration.
 
 
+# https://documenter.getpostman.com/view/25187096/2sAY4sk58N
